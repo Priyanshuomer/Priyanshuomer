@@ -1,17 +1,3 @@
-<head>
-  <style>
-
-    img-box{
-    display:flex;
-    flex-direction:column;
-    }
-
-
-    
-  </style>
-</head>
-
-
 
 <h1>Hello Everyone  <img src = "https://logos-world.net/wp-content/uploads/2023/11/Emoji-Wave-Hand.png" width="100px"> </h1>
 <br> 
