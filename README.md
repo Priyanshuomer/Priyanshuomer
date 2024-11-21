@@ -1,8 +1,5 @@
 <head>
   <style>
-    img{
-      width:100px;
-      }
 
     img-box{
     display:flex;
@@ -22,14 +19,14 @@ Currently , I am exploring Data Structure and Algorithms in 'C++' and Web Techno
 
 <h3>Tech-Stacks </h3>
 <div class="img-box">
-<img src="https://th.bing.com/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&w=230&h=270&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
-<img src="https://logodix.com/logo/1137946.png">
-<img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png">
-<img src="https://www.mvps.net/docs/wp-content/uploads/2019/10/css.png">
-<img src="https://www.kindpng.com/picc/m/171-1718046_javascript-programming-language-logo-hd-png-download.png">
-<img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png">
-<img src="https://th.bing.com/th/id/OIP.disvEAqaUL_iW-yOD37WUQHaHa?rs=1&pid=ImgDetMain">
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG19.png">
+<img  width="100px src="https://th.bing.com/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&w=230&h=270&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
+<img width="100px  src="https://logodix.com/logo/1137946.png">
+<img  width="100px" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png">
+<img  width="100px src="https://www.mvps.net/docs/wp-content/uploads/2019/10/css.png">
+<img  width="100px src="https://www.kindpng.com/picc/m/171-1718046_javascript-programming-language-logo-hd-png-download.png">
+<img  width="100px src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png">
+<img  width="100px src="https://th.bing.com/th/id/OIP.disvEAqaUL_iW-yOD37WUQHaHa?rs=1&pid=ImgDetMain">
+<img  width="100px src="https://pngimg.com/uploads/mysql/mysql_PNG19.png">
 </div>
 
 
