@@ -22,7 +22,7 @@ Currently , I am exploring Data Structure and Algorithms in 'C++' and Web Techno
 <h3>You can Contact me at:  </h3>
 <h5>Email : <b>priyanshuomer27@gmail.com</b></h5>
   <a href="https://www.linkedin.com/in/priyanshu-omer-190abb288"><img width="80px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"></a>
- <a href="https://x.com/OmerPriyan55405"><img width="75px" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg"></a>
+ <a href="https://x.com/Priyanshu_27_10"><img width="75px" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg"></a>
 
 </div>
 
